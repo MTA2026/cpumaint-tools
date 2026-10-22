@@ -1,5 +1,7 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://github.com/MTA2026/cpumaint-tools/releases/download/V1.0.0/CPUMaintTools.exe",
-  "changelog": "First release"
+    "latest_version":  "1.6.2",
+    "download_url":  "https://github.com/MTA2026/cpumaint-tools/releases/download/v1.6.2/CPUMaintTools.exe",
+    "sha256":  "7ec6f020217f25c00498fa8e6f1c7a4eb73468b7ff5f3cf651bc68db833d566e",
+    "mandatory":  false,
+    "changelog":  "Bundled links and files"
 }
